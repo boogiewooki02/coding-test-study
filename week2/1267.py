@@ -18,3 +18,5 @@ elif (sum_m > sum_y):
     print("Y", sum_y)
 else:
     print("Y M", sum_m)
+
+# 백준에서 f-string 사용 불가능?

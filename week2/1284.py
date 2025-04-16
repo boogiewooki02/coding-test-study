@@ -15,3 +15,5 @@ n = input()
 while n != "0":
     print(getLength(n))
     n = input()
+
+# 함수 분리
